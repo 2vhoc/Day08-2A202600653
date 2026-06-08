@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Điều 249 Bộ luật Hình sự quy định gì về tội tàng trữ trái phép chất ma túy?",
+    "expected_answer": "Điều 249 quy định tội tàng trữ trái phép chất ma túy; người tàng trữ trái phép chất ma túy có thể bị truy cứu trách nhiệm hình sự và bị phạt tù theo khối lượng, loại chất ma túy và tình tiết của vụ án.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 249"
+  },
+  {
+    "question": "Điều 250 Bộ luật Hình sự nói về hành vi nào liên quan đến ma túy?",
+    "expected_answer": "Điều 250 quy định tội vận chuyển trái phép chất ma túy, áp dụng cho hành vi vận chuyển chất ma túy trái phép và lượng hình theo loại, khối lượng ma túy cùng các tình tiết tăng nặng.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 250"
+  },
+  {
+    "question": "Điều 251 Bộ luật Hình sự xử lý hành vi mua bán trái phép chất ma túy như thế nào?",
+    "expected_answer": "Điều 251 quy định tội mua bán trái phép chất ma túy; người mua bán trái phép chất ma túy bị xử lý hình sự, mức phạt tù phụ thuộc vào loại ma túy, khối lượng và tình tiết phạm tội.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 251"
+  },
+  {
+    "question": "Luật Phòng, chống ma túy 2021 điều chỉnh những nội dung nào?",
+    "expected_answer": "Luật Phòng, chống ma túy 2021 quy định về phòng, chống ma túy; quản lý người sử dụng trái phép chất ma túy; cai nghiện ma túy; trách nhiệm của cá nhân, gia đình, cơ quan, tổ chức; quản lý nhà nước và hợp tác quốc tế về phòng, chống ma túy.",
+    "expected_context": "Luật Phòng, chống ma túy 2021, Điều 1"
+  },
+  {
+    "question": "Các biện pháp cai nghiện ma túy theo Luật Phòng, chống ma túy 2021 gồm những gì?",
+    "expected_answer": "Biện pháp cai nghiện ma túy gồm cai nghiện tự nguyện và cai nghiện bắt buộc; cai nghiện tự nguyện có thể thực hiện tại gia đình, cộng đồng hoặc cơ sở cai nghiện, còn cai nghiện bắt buộc thực hiện tại cơ sở cai nghiện ma túy công lập.",
+    "expected_context": "Luật Phòng, chống ma túy 2021, Điều 28"
+  },
+  {
+    "question": "Quy trình cai nghiện ma túy gồm những giai đoạn nào?",
+    "expected_answer": "Quy trình cai nghiện ma túy gồm tiếp nhận, phân loại; điều trị cắt cơn, giải độc, điều trị rối loạn tâm thần và bệnh lý khác; giáo dục, tư vấn, phục hồi hành vi, nhân cách; lao động trị liệu, học nghề; và chuẩn bị tái hòa nhập cộng đồng.",
+    "expected_context": "Luật Phòng, chống ma túy 2021, Điều 29"
+  },
+  {
+    "question": "Thời hạn cai nghiện ma túy tự nguyện tại gia đình, cộng đồng là bao lâu?",
+    "expected_answer": "Thời hạn cai nghiện ma túy tự nguyện tại gia đình, cộng đồng là từ đủ 06 tháng đến 12 tháng.",
+    "expected_context": "Luật Phòng, chống ma túy 2021, Điều 30"
+  },
+  {
+    "question": "Người cai nghiện ma túy bắt buộc từ đủ 12 tuổi đến dưới 18 tuổi có thời hạn cai nghiện bao lâu?",
+    "expected_answer": "Thời hạn cai nghiện ma túy bắt buộc đối với người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi là từ đủ 06 tháng đến 12 tháng.",
+    "expected_context": "Luật Phòng, chống ma túy 2021, Điều 33"
+  },
+  {
+    "question": "Nguồn tài chính cho phòng, chống ma túy gồm những nguồn nào?",
+    "expected_answer": "Nguồn tài chính cho phòng, chống ma túy gồm ngân sách nhà nước và nguồn tài trợ, viện trợ, đầu tư, tặng cho của tổ chức, cá nhân trong nước và nước ngoài, cùng các nguồn tài chính hợp pháp khác.",
+    "expected_context": "Luật Phòng, chống ma túy 2021, Điều 4"
+  },
+  {
+    "question": "Gia đình người sử dụng trái phép chất ma túy có trách nhiệm gì?",
+    "expected_answer": "Gia đình có trách nhiệm quản lý, giáo dục, ngăn chặn hành vi sử dụng trái phép chất ma túy, cung cấp thông tin cho công an cấp xã và phối hợp với cơ quan có thẩm quyền khi cần thiết.",
+    "expected_context": "Luật Phòng, chống ma túy 2021, trách nhiệm gia đình"
+  },
+  {
+    "question": "Diễn viên Hữu Tín bị truy tố về tội gì trong bài báo Tuổi Trẻ?",
+    "expected_answer": "Diễn viên Hữu Tín bị truy tố về tội tổ chức sử dụng trái phép chất ma túy.",
+    "expected_context": "Tuổi Trẻ, bài Diễn viên Hữu Tín bị truy tố vì tổ chức sử dụng ma túy"
+  },
+  {
+    "question": "Trong vụ Hữu Tín, cơ quan chức năng phát hiện những ai dương tính với chất ma túy?",
+    "expected_answer": "Bài báo cho biết qua xét nghiệm nhanh, lực lượng chức năng phát hiện Trần Hữu Tín, Trần Thanh Tâm và Dương Thái Ngọc Huyền dương tính với chất ma túy.",
+    "expected_context": "Tuổi Trẻ, bài Diễn viên hài Hữu Tín bị khởi tố, bắt tạm giam vì ma túy"
+  },
+  {
+    "question": "Ca sĩ Chu Bin được báo VietNamNet mô tả liên quan đến vụ việc gì?",
+    "expected_answer": "VietNamNet mô tả Chu Bin là ca sĩ bị bắt giữ vì liên quan đến ma túy và từng hoạt động âm nhạc nhiều năm.",
+    "expected_context": "VietNamNet, bài Ca sĩ Chu Bin là ai?"
+  },
+  {
+    "question": "Châu Việt Cường bị khởi tố theo tội danh nào trong bài VnExpress?",
+    "expected_answer": "VnExpress cho biết Công an quận Ba Đình đã khởi tố Nguyễn Việt Cường, tức ca sĩ Châu Việt Cường, về tội Giết người theo Điều 123 Bộ luật Hình sự 2015.",
+    "expected_context": "VnExpress, bài Ca sĩ Châu Việt Cường bị khởi tố tội Giết người"
+  },
+  {
+    "question": "Bài Dân Trí về Châu Việt Cường nêu chất ma túy nào được sử dụng trong vụ án?",
+    "expected_answer": "Bài Dân Trí nêu nhóm trong vụ án sử dụng chất ma túy ketamin; tình trạng ảo giác sau khi sử dụng ketamin liên quan đến bi kịch xảy ra.",
+    "expected_context": "Dân Trí, bài Lời kể của cảnh sát điều tra trong vụ án Châu Việt Cường"
+  }
+]
