@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import sys
 from http import HTTPStatus
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
@@ -912,10 +913,17 @@ class RAGChatHandler(BaseHTTPRequestHandler):
             self.send_json({"error": str(exc)}, HTTPStatus.INTERNAL_SERVER_ERROR)
 
 
+def default_port() -> int:
+    try:
+        return int(os.getenv("PORT", "8501"))
+    except ValueError:
+        return 8501
+
+
 def main():
     parser = argparse.ArgumentParser(description="Run the Day 8 RAG web chatbot.")
     parser.add_argument("--host", default="127.0.0.1")
-    parser.add_argument("--port", default=8501, type=int)
+    parser.add_argument("--port", default=default_port(), type=int)
     args = parser.parse_args()
 
     server = ThreadingHTTPServer((args.host, args.port), RAGChatHandler)
